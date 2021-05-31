@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Car>
+    <vehicleModel>car</vehicleModel>
+    <vehicleType>Car</vehicleType>
+</Car>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Car>
+    <vehicleModel>BMW</vehicleModel>
+    <vehicleType>Car</vehicleType>
+</Car>

@@ -1,0 +1,2 @@
+Car car class sample.transport.vehicle.Car 10
+Car BMW class sample.transport.vehicle.Car 10

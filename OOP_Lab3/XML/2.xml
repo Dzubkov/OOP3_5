@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Boat>
+    <vehicleModel>m</vehicleModel>
+    <vehicleType>Boat</vehicleType>
+    <displacement>0</displacement>
+</Boat>
