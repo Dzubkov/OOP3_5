@@ -1,0 +1,1 @@
+Car Tesla class sample.transport.vehicle.Car 10
